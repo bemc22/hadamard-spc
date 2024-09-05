@@ -6,6 +6,11 @@ Leveraging Sylvester's recursive construction, our method generates the required
 The algorithm uses the Kronecker product to construct the desired row from the binary representation of the index, without creating the full matrix. 
 This approach is particularly useful for single-pixel imaging systems that need only one row at a time.
 
+## Visual Example
+In the case of $` \textbf{h}_6 `$, the 6-th index has a binary representation of $`6_{10} = \textbf{0110}_2 `$. The digits in this binary representation can be used to index the Kronecker product of $n$, 2-order Hadamard matrices, where 0/1 corresponds to using the first or second row, respectively.
+
+![alt text](img.png)
+
 ## How to cite
 If this code is useful for your and you use it in an academic work, please consider citing this paper as
 
