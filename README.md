@@ -12,7 +12,7 @@ In the case of $` \textbf{h}_6 `$, the 6-th index has a binary representation of
 ![alt text](img.png)
 
 ## How to cite
-If this code is useful for your and you use it in an academic work, please consider citing this paper as
+If this code is useful for your research and you use it in an academic work, please consider citing this paper as
 
 
 ```bib
